@@ -1,0 +1,17 @@
+[
+  { "market_id": "AUD/USD", "exchange": "FX", "IG": "CS.D.AUDUSD.MINI.IP", "CI": "400494179", "EOD": "" },
+  { "market_id": "EUR/USD", "exchange": "FX", "IG": "CS.D.EURUSD.MINI.IP", "CI": "154290", "EOD": "" },
+  { "market_id": "USD/JPY", "exchange": "FX", "IG": "CS.D.USDJPY.MINI.IP", "CI": "154303", "EOD": "" },
+  { "market_id": "ANZ", "exchange": "ASX", "IG": "AA.D.ANZ.CASH.IP", "CI": "101471", "EOD": "ANZ.AU" },
+  { "market_id": "BHP", "exchange": "ASX", "IG": "AA.D.BHP.CASH.IP", "CI": "101475", "EOD": "BHP.AU" },
+  { "market_id": "CBA", "exchange": "ASX", "IG": "AA.D.CBA.CASH.IP", "CI": "101506", "EOD": "CBA.AU" },
+  { "market_id": "CSL", "exchange": "ASX", "IG": "AA.D.CSL.CASH.IP", "CI": "101488", "EOD": "CSL.AU" },
+  { "market_id": "FMG", "exchange": "ASX", "IG": "AA.D.FMG.CASH.IP", "CI": "101652", "EOD": "FMG.AU" },
+  { "market_id": "MQG", "exchange": "ASX", "IG": "AA.D.MQG.CASH.IP", "CI": "101633", "EOD": "MQG.AU" },
+  { "market_id": "NAB", "exchange": "ASX", "IG": "AA.D.NAB.CASH.IP", "CI": "101634", "EOD": "NAB.AU" },
+  { "market_id": "NST", "exchange": "ASX", "IG": "AA.D.NST.CASH.IP", "CI": "400510134", "EOD": "NST.AU" },
+  { "market_id": "QAN", "exchange": "ASX", "IG": "AA.D.QAN.CASH.IP", "CI": "101600", "EOD": "QAN.AU" },
+  { "market_id": "RIO", "exchange": "ASX", "IG": "AA.D.RIO.CASH.IP", "CI": "101670", "EOD": "RIO.AU" },
+  { "market_id": "WBC", "exchange": "ASX", "IG": "AA.D.WBC.CASH.IP", "CI": "101664", "EOD": "WBC.AU" },
+  { "market_id": "WES", "exchange": "ASX", "IG": "AA.D.WES.CASH.IP", "CI": "101671", "EOD": "WES.AU" }
+]
